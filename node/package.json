@@ -1,0 +1,25 @@
+{
+  "name": "coursera-crypto1",
+  "version": "1.0.0",
+  "description": "Some code i wrote for the CourseraCryptoCourse",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha gfMath-test.js"
+  },
+  "keywords": [
+    "crypto",
+    "blockcipher",
+    "streamcipher",
+    "encipher",
+    "decipher",
+    "aes",
+    "pads",
+    "more"
+  ],
+  "author": "Georgi Angelov",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
